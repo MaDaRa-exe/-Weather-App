@@ -17,7 +17,7 @@ A modern weather app built with HTML, CSS, and JavaScript.
 - OpenWeather API
 
 ## Live Demo
-Add your Netlify link here after deployment.
+weatherapp-madara.netlify.app
 
 ## Author
-MaDaRa
+MāDāRā
